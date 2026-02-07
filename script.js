@@ -1,0 +1,1 @@
+alert("Abdullayv Saidxon")

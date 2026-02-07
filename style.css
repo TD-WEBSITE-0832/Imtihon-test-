@@ -94,6 +94,7 @@ transform: translateY(-5px);
     width:  135px;
     height: 43px;
     border-radius: 4px;
+    transition: all 0.6s ease-in-out;
 }
 
 
